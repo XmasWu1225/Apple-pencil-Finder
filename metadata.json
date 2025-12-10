@@ -1,0 +1,5 @@
+{
+  "name": "Pencil 寻笔助手",
+  "description": "一个由 AI 驱动的诊断工具，通过分析 Apple Sysdiagnose 日志中的蓝牙连接历史和信号强度数据，帮助用户找回丢失的 Apple Pencil。",
+  "requestFramePermissions": []
+}
